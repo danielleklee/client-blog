@@ -1,0 +1,80 @@
+body {
+    background-color: #fadff4;
+    background-image: url(images/intersection-pink.png);
+    background-repeat: repeat;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    background:#441f2a;
+    -webkit-box-shadow: 10px 10px 5px -7px rgba(148,146,148,1);
+    -moz-box-shadow: 10px 10px 5px -7px rgba(148,146,148,1);
+    box-shadow: 10px 10px 5px -7px rgba(148,146,148,1);
+    color: #EBEBEB;
+    text-decoration: none;
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+
+
+.links {
+    padding: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+main {
+    padding: 80px;
+    margin-top: 5px;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    font-style: bold;
+}
+
+h2 {
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    font-style: bold;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+   
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.image {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.search-icon {
+    margin-left: 20px;
+    border: 1px solid #EBEBEB;
+    padding-right: 150px;
+}
+
+.fusion-row {
+    margin-left: 15px;
+}
